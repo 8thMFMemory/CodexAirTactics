@@ -1,4 +1,3 @@
-from msilib import schema
 from re import M
 from this import d
 from tkinter import W
