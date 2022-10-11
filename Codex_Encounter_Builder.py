@@ -18,7 +18,7 @@ with colx:
     #st.subheader(st.text_input(label="Nome Scontro",label_visibility="hidden"))
 #ho moddato il codice sorgente per non fare l'errore - file utils.py righe commentate
 # Resource Variables
-modpath='.data/ModList.xlsx'
+modpath='./data/ModList.xlsx'
 @st.cache
 def getmodlist():
     global modlist
