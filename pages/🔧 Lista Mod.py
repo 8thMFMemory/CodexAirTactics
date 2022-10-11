@@ -10,7 +10,8 @@ st.set_page_config(
 )
 st.header("Lista Mod")
 st.subheader("Cerca e trova la Mod adatta!")
-modpath=str(r'D:\feder\OneDrive\Documenti\Programming\StreamLitCodex\data\ModList.xlsx')
+modpath='./data/ModList.xlsx'
+
 
 @st.cache
 def getmodlist():
