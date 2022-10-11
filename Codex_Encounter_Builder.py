@@ -3,7 +3,6 @@ from this import d
 from tkinter import W
 import streamlit as st
 import pandas as pd
-from dominate.tags import *
 
 st.set_page_config(
     page_title="Codex Air Tactics Encounter Builder",
