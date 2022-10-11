@@ -1,5 +1,6 @@
 from re import M
 from this import d
+import _tkinter
 from tkinter import W
 import streamlit as st
 import pandas as pd
