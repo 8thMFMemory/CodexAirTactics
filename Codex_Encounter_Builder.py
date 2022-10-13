@@ -88,7 +88,7 @@ def write_expanders(number_of_enemies=int,liss=list):
             st.write("Costo Totale Mod: ",z["SC"+r+"MCost"])
         d=d+w["SC"+r+"B"]
         M=M+z["SC"+r+"MCost"]
-        lot.append([t2,u2,v,a,b])
+        lot.append([t2,u2,v2,a,b])
 
 
 #sidebar part
